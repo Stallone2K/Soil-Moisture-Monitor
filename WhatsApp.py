@@ -9,8 +9,8 @@ GPIO.setmode(GPIO.BCM)
 GPIO.setup(channel, GPIO.IN)
 
 #TWILIO TOKEN AUTHORISATION
-account_sid = 'AC435e141e7d3484c204f9870fded10348' 
-auth_token = '097c7006574576ca1cfe502c0d1479c6' 
+account_sid = 'Enter SID Token Here' 
+auth_token = 'Enter AUTH Token Here' 
 client = Client(account_sid, auth_token) 
 
 message = client.messages.create( 
