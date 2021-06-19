@@ -16,7 +16,7 @@ client = Client(account_sid, auth_token)
 message = client.messages.create( 
                               from_='whatsapp:+14155238886',  
                               body='WARNING: No Water Detected ',      
-                              to='whatsapp:+919075975133' 
+                              to='whatsapp: Client Number' 
                           ) 
 
 # consoleYes = "Water Detected \n"
