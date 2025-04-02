@@ -1,12 +1,14 @@
 # IOT : Soil Moisture Monitor Raspberry Pi 3
 
-![Project Logo](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e619a261-38db-4f2b-b620-6df273a4e23f/CULOGO.png)
+![Project Logo](https://raw.githubusercontent.com/Stallone2K/Soil-Moisture-Monitor/refs/heads/main/Pi.webp)
 
 ---
 
+![CU Logo](https://raw.githubusercontent.com/Stallone2K/Soil-Moisture-Monitor/refs/heads/main/CULOGO.webp)
+
 ## AWS Documentation: (The Idea)
 
-[Monitoring soil moisture with AWS IoT and Raspberry Pi](https://docs.aws.amazon.com/iot/latest/developerguide/iot-moisture-tutorial.html)
+[Monitoring Soil Moisture With AWS IoT And Raspberry Pi](https://docs.aws.amazon.com/iot/latest/developerguide/iot-moisture-tutorial.html)
 
 ---
 
@@ -24,7 +26,7 @@ In India, agriculture is the main source of livelihood for many people and has a
 
 ### Circuit Diagram:
 
-![Circuit Diagram](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e3c8a25a-a246-4630-966a-4fe625be1965/Pi.png)
+![Circuit Diagram](https://raw.githubusercontent.com/Stallone2K/Soil-Moisture-Monitor/refs/heads/main/Circuit.webp)
 
 ---
 
@@ -53,7 +55,7 @@ In India, agriculture is the main source of livelihood for many people and has a
     pinout  # RPi Pin Identification
     ```
 
-![GPIO Pins](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c86234df-0d8b-4e72-ac30-f9b26c715718/Raspberry_pi_3_GPIO_pins_v2.png)
+![GPIO Pins](https://raw.githubusercontent.com/Stallone2K/Soil-Moisture-Monitor/refs/heads/main/GPIO.webp)
 
 ---
 
@@ -149,4 +151,4 @@ The resistive-type soil moisture sensors are prone to corrosion, whereas capacit
 
 💡 **Availability Issues Due to COVID-19**
 
-![Sensor Image](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/637ad011-c927-4959-9eff-787245dd719d/WhatsApp_Image_2021-05-04_at_11.58.18_AM.jpeg)
+![Sensor Image](https://raw.githubusercontent.com/Stallone2K/Soil-Moisture-Monitor/refs/heads/main/Screenshot.webp)
